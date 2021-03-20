@@ -19,7 +19,7 @@ PORT=3000 || any port you want
     ~ npm run dev
 ~~~
 
-Start developing the your server things, with nodemon to cold reload after saving
+Start developing your server things, with nodemon to cold reload after saving
 
 ~~~bash
     ~ npm run build
