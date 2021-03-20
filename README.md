@@ -1,4 +1,4 @@
-Simple typescript-nodejs template
+# Simple typescript-nodejs template
 
 ```bash
  ~ git clone ts-node-basic
